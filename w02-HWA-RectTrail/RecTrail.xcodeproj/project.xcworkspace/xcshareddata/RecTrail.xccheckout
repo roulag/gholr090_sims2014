@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CA6D83B0-6B2B-42E1-A8C8-08B945A848F1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RecTrail</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A1C39B7A-A79C-4AE8-8962-AEA1844E5906</key>
+		<string>https://github.com/roulag/gholr090_sims2014.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>02-HWA-RectTrail/RecTrail.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A1C39B7A-A79C-4AE8-8962-AEA1844E5906</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/roulag/gholr090_sims2014.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A1C39B7A-A79C-4AE8-8962-AEA1844E5906</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A1C39B7A-A79C-4AE8-8962-AEA1844E5906</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gholr090_sims2014</string>
+		</dict>
+	</array>
+</dict>
+</plist>
